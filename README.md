@@ -1,6 +1,6 @@
 ![Screenshot (61)](https://github.com/user-attachments/assets/ce3433d2-f41d-4fc6-8679-b1f959635bd8)
 AMAZON SALES REPORT POWER BI DASHBOARD-
-This layout in your Amazon Sales Report dashboard offers a well-structured and insightful breakdown of sales data. Here's a quick summary of how each section contributes to the dashboard's effectiveness:
+This layout in Amazon Sales Report dashboard offers a well-structured and insightful breakdown of sales data. Here's a quick summary of how each section contributes to the dashboard's effectiveness:
 
 1. Top Banner: Instantly presents the overall sales amount and allows filtering by date range, making it easy for users to focus on specific time periods.
 
